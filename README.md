@@ -12,3 +12,7 @@ prototypes
 When developing I write a small program that demonstrates a new features on its own.
 
 - moodclock.py - Setting RGB values over a serial connection
+
+TODO
+=====
+look into using a starfleet insignia as piezo sensor
